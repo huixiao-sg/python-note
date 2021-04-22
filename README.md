@@ -1,2 +1,2 @@
-# python-note
-My python note
+# Initial page
+
